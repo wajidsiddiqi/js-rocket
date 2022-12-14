@@ -1,3 +1,7 @@
+		setTimeOut(function () {
+          location.href = 'rocket.html';
+		}, 2000);
+
 		// this function does this.
 		var doCoolStuff = function () {
             // changing class name / wapis se 
